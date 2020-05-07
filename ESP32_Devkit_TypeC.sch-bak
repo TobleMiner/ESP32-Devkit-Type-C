@@ -412,26 +412,7 @@ Connection ~ 2750 5000
 Wire Wire Line
 	2750 5000 2900 5000
 Wire Wire Line
-	3350 5050 3350 5000
-Wire Wire Line
-	3350 5000 3200 5000
-$Comp
-L Device:C C6
-U 1 1 5EB73514
-P 3350 5200
-F 0 "C6" V 3098 5200 50  0000 C CNN
-F 1 "100 nF" V 3189 5200 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric" H 3388 5050 50  0001 C CNN
-F 3 "~" H 3350 5200 50  0001 C CNN
-F 4 "C1525" H 3350 5200 50  0001 C CNN "LCSC"
-	1    3350 5200
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
 	3750 5050 3750 5000
-Wire Wire Line
-	3750 5000 3350 5000
-Connection ~ 3350 5000
 $Comp
 L power:GND #PWR0110
 U 1 1 5EB76E72
@@ -452,16 +433,9 @@ Wire Wire Line
 Connection ~ 2200 5600
 Wire Wire Line
 	2200 5600 2200 5550
-Wire Wire Line
-	2750 5600 3350 5600
-Wire Wire Line
-	3350 5600 3350 5350
 Connection ~ 2750 5600
 Wire Wire Line
-	3350 5600 3750 5600
-Wire Wire Line
 	3750 5600 3750 5350
-Connection ~ 3350 5600
 $Comp
 L Device:R R5
 U 1 1 5EB7E0C5
@@ -1453,4 +1427,8 @@ Wire Wire Line
 	10000 1600 9850 1600
 Wire Wire Line
 	9850 1600 9850 1550
+Wire Wire Line
+	2750 5600 3750 5600
+Wire Wire Line
+	3200 5000 3750 5000
 $EndSCHEMATC
