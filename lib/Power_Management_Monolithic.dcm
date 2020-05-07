@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2451
+D MP2451 36V, 2MHz, 0.6A Step-Down Converter
+K MP2451, Step-Down
+F https://datasheet.lcsc.com/szlcsc/Monolithic-Power-Systems-MPS-MP2451DT-LF-Z_C14123.pdf
+$ENDCMP
+#
+#End Doc Library

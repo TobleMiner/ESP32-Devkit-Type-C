@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Power_Management_Monolithic)(type Legacy)(uri ${KIPRJMOD}/lib/Power_Management_Monolithic.lib)(options "")(descr ""))
+)

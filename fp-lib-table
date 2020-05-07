@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Antenna_IFA)(type KiCad)(uri ${KIPRJMOD}/lib/Antenna_IFA.pretty)(options "")(descr ""))
+)
