@@ -263,6 +263,18 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Icon_Icon
+#
+DEF Icon_Icon I 0 40 Y Y 1 F N
+F0 "I" 0 0 50 H I C CNN
+F1 "Icon_Icon" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -100 50 100 -50 0 1 0 f
+ENDDRAW
+ENDDEF
+#
 # Interface_USB_CH340G
 #
 DEF Interface_USB_CH340G U 0 20 Y Y 1 F N
@@ -291,6 +303,21 @@ X UD- 6 -400 0 100 R 50 50 1 1 B
 X XI 7 -400 -200 100 R 50 50 1 1 I
 X XO 8 -400 -400 100 R 50 50 1 1 O
 X ~CTS 9 400 100 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# Mechanical_MountingHole
+#
+DEF Mechanical_MountingHole H 0 40 Y Y 1 F N
+F0 "H" 0 200 50 H V C CNN
+F1 "Mechanical_MountingHole" 0 125 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ MountingHole*
+$ENDFPLIST
+DRAW
+C 0 0 50 0 1 50 N
 ENDDRAW
 ENDDEF
 #
