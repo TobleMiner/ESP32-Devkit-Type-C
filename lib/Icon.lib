@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Icon
+#
+DEF Icon I 0 40 Y Y 1 F N
+F0 "I" 0 0 50 H I C CNN
+F1 "Icon" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -100 50 100 -50 0 1 0 f
+ENDDRAW
+ENDDEF
+#
+#End Library
