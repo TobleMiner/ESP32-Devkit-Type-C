@@ -2504,11 +2504,6 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/lib/breadboard_350_pos_asm.STEP
-      (offset (xyz -11.4 -9 11))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 90 0 90))
-    )
   )
 
   (gr_text "Type C" (at 105.9 93.5) (layer F.SilkS) (tstamp 5EB79524)

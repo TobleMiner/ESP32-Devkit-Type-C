@@ -1035,7 +1035,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/lib/SKRKAH.STEP
+    (model ${KIPRJMOD}/lib/3rdparty/SKRKAH.STEP
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1081,7 +1081,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/lib/SKRKAH.STEP
+    (model ${KIPRJMOD}/lib/3rdparty/SKRKAH.STEP
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1625,7 +1625,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/lib/usb_typec_16pin.step
+    (model ${KIPRJMOD}/lib/3rdparty/usb_typec_16pin.step
       (offset (xyz 0 2.5 1.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -180 0 0))
@@ -2503,6 +2503,11 @@
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model ${KIPRJMOD}/lib/3rdparty/breadboard_350_pos_asm.STEP
+      (offset (xyz -11.4 -9 11))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 90))
     )
   )
 
