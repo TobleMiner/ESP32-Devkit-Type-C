@@ -1443,10 +1443,10 @@ F 3 "" H 6400 600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H1
 U 1 1 5F3DD188
 P 6800 600
-F 0 "H?" H 6900 646 50  0000 L CNN
+F 0 "H1" H 6900 646 50  0000 L CNN
 F 1 "MountingHole" H 6900 555 50  0000 L CNN
 F 2 "ToolingHole:ToolingHole_JLCSMT" H 6800 600 50  0001 C CNN
 F 3 "~" H 6800 600 50  0001 C CNN
@@ -1454,14 +1454,25 @@ F 3 "~" H 6800 600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H?
+L Mechanical:MountingHole H2
 U 1 1 5F3DDEDA
 P 7550 600
-F 0 "H?" H 7650 646 50  0000 L CNN
+F 0 "H2" H 7650 646 50  0000 L CNN
 F 1 "MountingHole" H 7650 555 50  0000 L CNN
 F 2 "ToolingHole:ToolingHole_JLCSMT" H 7550 600 50  0001 C CNN
 F 3 "~" H 7550 600 50  0001 C CNN
 	1    7550 600 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Icon:Icon I?
+U 1 1 5F3FE9BA
+P 5950 600
+F 0 "I?" H 5950 600 50  0001 C CNN
+F 1 "Icon" H 6078 600 50  0000 L CNN
+F 2 "Symbol:OSHW-Symbol_6.7x6mm_SilkScreen" H 5950 600 50  0001 C CNN
+F 3 "" H 5950 600 50  0001 C CNN
+	1    5950 600 
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
