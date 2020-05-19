@@ -2,4 +2,5 @@
   (lib (name Antenna_IFA)(type KiCad)(uri ${KIPRJMOD}/lib/Antenna_IFA.pretty)(options "")(descr ""))
   (lib (name Signs)(type KiCad)(uri ${KIPRJMOD}/lib/Signs.pretty)(options "")(descr ""))
   (lib (name ToolingHole)(type KiCad)(uri ${KIPRJMOD}/lib/ToolingHole.pretty)(options "")(descr ""))
+  (lib (name Package_ESP32)(type KiCad)(uri ${KIPRJMOD}/lib/Package_ESP32.pretty)(options "")(descr ""))
 )
