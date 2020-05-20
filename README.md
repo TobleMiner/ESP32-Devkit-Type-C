@@ -3,7 +3,7 @@ ESP32 Devkit Type C
 
 **DISCLAIMER: I've not tested this design yet**
 
-This PCB is a USB Type C enabled EDP32 development board. It is pin-compatible
+This PCB is a USB Type C enabled ESP32 development board. It is pin-compatible
 with the ESP32 Devkit C but sports a slightly decreased width to fit on a
 standard breadboard.
 
@@ -19,7 +19,7 @@ assembly service. All components on this board, except the USB Type C connector,
 the push buttons and the pin headers can be assembled by them for around ~$8
 including PCB manufacturing and components.
 
-![Devkit on breadboard](/resources/revA_breadboard.png)
+![Devkit on breadboard](/resources/revB_breadboard.png)
 
 # Assembly
 
