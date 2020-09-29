@@ -13,13 +13,14 @@ standard breadboard.
 * pin-compatible with ESP32 Devkit
 * fits on standard breadboard
 * onboard antenna
+* jumper to short USB protection diode
 
 Furthermore this board is optimized for JLCPCB assembly, a Chinese SMT PCB
 assembly service. All components on this board, except the USB Type C connector,
 the push buttons and the pin headers can be assembled by them for around ~$8
 including PCB manufacturing and components.
 
-![Devkit on breadboard](/resources/revB_breadboard.png)
+![Devkit on breadboard](/resources/revD_breadboard.png)
 
 # Assembly
 
