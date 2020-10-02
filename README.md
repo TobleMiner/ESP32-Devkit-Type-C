@@ -20,7 +20,7 @@ assembly service. All components on this board, except the USB Type C connector,
 the push buttons and the pin headers can be assembled by them for around ~$8
 including PCB manufacturing and components.
 
-![Devkit on breadboard](/resources/revD_breadboard.png)
+![Devkit on breadboard](/resources/revE_breadboard.png)
 
 # Assembly
 
