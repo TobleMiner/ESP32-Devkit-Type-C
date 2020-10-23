@@ -1,11 +1,10 @@
 ESP32 Devkit Type C
 ===================
 
-**DISCLAIMER: I've not tested this design yet**
-
 This PCB is a USB Type C enabled ESP32 development board. It is pin-compatible
 with the ESP32 Devkit C but sports a slightly decreased width to fit on a
-standard breadboard.
+standard breadboard.  
+The current revision (Rev E) has been tested and confirmed to work fine.
 
 # Features
 
