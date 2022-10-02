@@ -5240,6 +5240,9 @@
     (property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C3N9STDF_C13818.pdf" (id 3) (at 259.08 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "LCSC" "C17168" (id 4) (at 259.08 82.55 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid eb48abcf-6723-4af2-b304-9c80d2b5f14b))
     (pin "2" (uuid 287d6db3-19e9-4ebd-b3fc-79f6c718ac34))
   )
@@ -5253,7 +5256,7 @@
     (property "Value" "DNP" (id 1) (at 256.3368 87.503 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 254 86.36 0)
+    (property "Footprint" "L3" (id 2) (at 254 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 254 86.36 0)
@@ -5642,7 +5645,7 @@
       (reference "C26") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-000062901d6f"
-      (reference "C27") (unit 1) (value "DNP") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C27") (unit 1) (value "DNP") (footprint "L3")
     )
     (path "/00000000-0000-0000-0000-0000629c777f"
       (reference "C28") (unit 1) (value "DNP") (footprint "Capacitor_SMD:C_0402_1005Metric")

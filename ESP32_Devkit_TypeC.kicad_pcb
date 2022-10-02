@@ -48,7 +48,7 @@
       (copper_finish "None")
       (dielectric_constraints no)
     )
-    (pad_to_mask_clearance 0.01)
+    (pad_to_mask_clearance 0)
     (pad_to_paste_clearance_ratio -0.12)
     (grid_origin 102.075 86.75)
     (pcbplotparams
@@ -82,7 +82,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "fab")
     )
   )
 
@@ -3228,7 +3228,6 @@
       (net 4 "VCC") (pinfunction "B") (pintype "passive") (tstamp 89c9afdc-c346-4300-a392-5f9dd8c1e5bd))
   )
 
-  (gr_circle (center 92.75 113.05) (end 92.8 113.05) (layer "F.SilkS") (width 0.3) (fill none) (tstamp 00000000-0000-0000-0000-00005eb74bee))
   (gr_circle (center 101.575 82.65) (end 101.625 82.65) (layer "F.SilkS") (width 0.3) (fill none) (tstamp 00000000-0000-0000-0000-000061c4861d))
   (gr_circle (center 98.645 100.8225) (end 98.695 100.8225) (layer "F.SilkS") (width 0.3) (fill none) (tstamp 45b7fe01-a2fa-40c2-a3a2-4a9ae7c34dba))
   (gr_circle (center 106.875 95.05) (end 106.925 95.05) (layer "F.SilkS") (width 0.3) (fill none) (tstamp 6d4651b5-2e87-4cf8-b8ae-606f5d19b506))
