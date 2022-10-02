@@ -5,3 +5,6 @@ _autosave-*
 /*.zip
 /fab/
 /bom/
+/*.csv
+/*.xml
+/ESP32_Devkit_TypeC
