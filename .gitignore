@@ -3,3 +3,6 @@ fp-info-cache
 _autosave-*
 *-rescue.dcm
 *.bak
+/*.zip
+/fab/
+/bom/
